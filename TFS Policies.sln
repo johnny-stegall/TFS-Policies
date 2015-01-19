@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Review", "Code Review\Code Review.csproj", "{6176B214-1BA0-4918-AF13-A2E0AAD569AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Coverage", "Code Coverage\Code Coverage.csproj", "{74833E93-C238-4422-B17C-BC96F7059334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{21C95B4C-3799-42B8-BE1C-950AD465BB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6176B214-1BA0-4918-AF13-A2E0AAD569AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6176B214-1BA0-4918-AF13-A2E0AAD569AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6176B214-1BA0-4918-AF13-A2E0AAD569AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6176B214-1BA0-4918-AF13-A2E0AAD569AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74833E93-C238-4422-B17C-BC96F7059334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74833E93-C238-4422-B17C-BC96F7059334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74833E93-C238-4422-B17C-BC96F7059334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74833E93-C238-4422-B17C-BC96F7059334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C95B4C-3799-42B8-BE1C-950AD465BB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C95B4C-3799-42B8-BE1C-950AD465BB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C95B4C-3799-42B8-BE1C-950AD465BB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C95B4C-3799-42B8-BE1C-950AD465BB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
